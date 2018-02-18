@@ -1,3 +1,4 @@
+import com.nkodintsov.sortings.insert.InsertSorting;
 import org.junit.Test;
 
 import static org.junit.Assert.assertArrayEquals;
@@ -6,7 +7,7 @@ import static org.junit.Assert.assertNotNull;
 /**
  * Created by nikolay.odintsov on 17.02.18.
  */
-public class TestInsertSort {
+public class InsertSortTest {
 
     @Test
     public void testSort() {

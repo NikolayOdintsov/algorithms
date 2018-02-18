@@ -1,3 +1,5 @@
+package com.nkodintsov.sortings.insert;
+
 /**
  * Class provides implementation of insert soring.
  * Time complexity is O(n2)
