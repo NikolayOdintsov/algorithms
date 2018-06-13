@@ -66,6 +66,7 @@ public class Solution {
         return result;
     }
 
+    //O(n)
     public int[] twoSum3(int[] nums, int target) {
         int n = nums.length;
 
