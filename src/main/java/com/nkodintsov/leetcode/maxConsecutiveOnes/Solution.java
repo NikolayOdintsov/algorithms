@@ -1,6 +1,8 @@
 package com.nkodintsov.leetcode.maxConsecutiveOnes;
 
 /**
+ * https://leetcode.com/problems/max-consecutive-ones/description/
+ * <p>
  * Created by nikolay.odintsov on 13.06.18.
  */
 public class Solution {

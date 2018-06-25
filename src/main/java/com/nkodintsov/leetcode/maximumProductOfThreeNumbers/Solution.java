@@ -3,6 +3,8 @@ package com.nkodintsov.leetcode.maximumProductOfThreeNumbers;
 import java.util.Arrays;
 
 /**
+ * https://leetcode.com/problems/maximum-product-of-three-numbers/description/
+ * <p>
  * Created by nikolay.odintsov on 13.06.18.
  */
 public class Solution {
@@ -57,6 +59,10 @@ public class Solution {
         //1. O(n lgN)
         int result = solution.maximumProduct(nums);
         System.out.println(result);
+
+        //2. O(n)
+        int result2 = solution.maximumProduct2(nums);
+        System.out.println(result2);
 
     }
 }
